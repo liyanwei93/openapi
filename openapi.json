@@ -2,12 +2,12 @@
   "openapi": "3.0.1",
   "info": {
     "contact": {
-      "email": "support@instana.com",
-      "name": "© Instana",
-      "url": "http://instana.com"
+      "email": "support@aiops-insight.com",
+      "name": "© AIOps Insight",
+      "url": "https://www.ibm.com/products/aiops-insights"
     },
-    "termsOfService": "https://www.instana.com/terms-of-use/",
-    "title": "Introduction to Instana public APIs",
+    "termsOfService": "https://www.ibm.com/products/aiops-insights",
+    "title": "Introduction to AIOps Insight public APIs",
     "version": "1.253.720",
     "x-logo": {
       "altText": "instana logo",
